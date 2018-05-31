@@ -1,0 +1,149 @@
+.feoo{
+	position: absolute;
+	top:3500px;
+	margin: auto;
+}
+
+.caja-1{
+	position: absolute;
+	top:3550px;
+	left: 150px;
+	padding: 4px 30px; 
+	border-radius: 10px;
+	margin: auto;
+}
+
+.caja-2{
+	position: absolute;
+	top:3590px;
+	left: 150px;
+	padding: 4px 30px;
+	border-radius: 10px;
+	margin: auto;
+
+}
+
+.caja-3{
+	position: absolute;
+	top:3630px;
+	left: 146px;
+	padding: 7px 40px;
+	margin: auto;
+	border-radius: 10px;
+}
+
+.envio{
+	position: absolute;
+	top:2900px;
+	left: 185px;
+	margin: auto;
+	z-index: 1;	
+}
+
+
+.envio{
+
+ border:transparent;
+ background: #3a7999;
+ color: #f2f2f2;
+ padding: 5px 20px;
+ font-size: 18px;
+ border-radius: 10px;
+ position: relative;
+ box-sizing: border-box;
+ transition: all 500ms ease;
+ margin: auto;
+
+ }
+
+.envio:hover{
+	background-color: red;
+}
+
+input#envio{
+
+}
+
+.facebook{
+	position: absolute;
+	top:3620px;
+	left: 490px;
+	padding: 3px 30px; 
+	margin: auto;
+
+}
+
+.electronico{
+	position: absolute;
+	top:3620px;
+	left: 640px;
+	padding: 3px 30px; 
+	margin: auto;
+
+}
+
+.instagram{
+	position: absolute;
+	top:3620px;
+	left: 900px;
+	padding: 3px 30px; 
+	color: #cd486b;
+	margin: auto;
+
+}
+
+.twitter{
+	position: absolute;
+	top:3620px;
+	left: 1070px;
+	padding: 3px 30px; 
+	color: #268493;
+	margin: auto;
+
+}
+
+.momo{
+	position: absolute;
+	top:3540px;
+	left: 515px;
+	padding: 3px 30px; 
+	list-style: none;
+	font-size: 60px;
+	color: blue;
+	margin: auto;
+
+}
+
+.meme{
+	position: absolute;
+	top:3540px;
+	left: 710px;
+	padding: 3px 30px; 
+	list-style: none;
+	font-size: 60px;
+	color: blue;
+	margin: auto;
+
+}
+
+.memo{
+	position: absolute;
+	top:3540px;
+	left: 920px;
+	padding: 3px 30px; 
+	list-style: none;
+	font-size: 60px;
+	color: #cd486b;
+	margin: auto;
+}
+
+.mome{
+	position: absolute;
+	top:3540px;
+	left: 1085px;
+	padding: 3px 30px; 
+	list-style: none;
+	font-size: 60px;
+	color: #268493;
+	margin: auto;
+}

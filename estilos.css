@@ -1,0 +1,849 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	width: 100%;
+	background: #0909E5;
+	height: 110px;
+	position: fixed;
+	top: 0px;
+	z-index: 100;
+	margin: auto;
+}
+
+h1,h2,h3,h4,h5,h6,fede{
+	text-transform: uppercase;
+	color: #444;
+	font-family: carbalo;
+	letter-spacing: 1px;
+	margin: auto;
+
+}
+
+.config{
+	width: 90%;
+	height: 80%;
+	margin:auto;
+}
+
+.logo{
+	width: 30%;
+	height: 70px;
+	float: left;
+	padding-top: 10px;
+	margin: auto;
+}
+
+nav{
+	width: 70%;
+	height: 100px;
+	float: left;
+	text-align: right;
+	padding-top: 48px;
+	margin: auto;
+
+}
+
+nav ul li{
+	display: inline;
+}
+
+nav ul li a{
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 15px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-family:carbalo;
+	
+	
+}
+nav ul li a:hover{
+	color:red;
+}
+
+@font-face{
+	font-family: carbalo;
+	src:url(fuentess/Raleway-Regular.ttf);
+
+}
+
+.button {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.titulo-principal{
+	position: absolute;
+	left: 650px;
+	top: 300px;
+	width: 25%;
+	height:90px;
+	float: center;
+	text-align:center;
+	padding-top: 34px;
+	padding-right: 42px;
+	font-size: 23px;
+	margin: auto;
+
+}
+
+.animate-fadeInDownBig{
+	color: #B22222;
+	font: small-caps 100%/200% serif;
+
+}
+
+.house{
+	width: 100%;
+	height: 100px;
+	background-attachment: contain;
+	background-size: cover;
+	margin:auto;
+	
+}
+.house1{
+	position:all;
+	height: 70px;
+	position: center;
+	padding-top: 30px;
+	margin: auto;
+	z-index: 1;
+
+}
+
+.particles.js{
+	position: fixed;
+}
+
+.house2 {
+	position: absolute;
+	top: 250px;
+	left: 305px;
+	height: 100px;
+	padding-top: 40px;
+	padding-top: 10px;
+	margin: auto;
+
+}
+
+
+.ww{
+	width: 100%;
+	background: #B22222;
+	height: 170px;
+	position: absolute;
+	top:770px;
+	z-index: 1;
+	margin: auto;
+
+}
+
+h2{
+	position: absolute;
+	top:30px;
+	left: 100px;
+	height: 50px;
+	width: 50%;
+	color:black;
+	margin: auto;
+}
+p{
+	position: absolute;
+	top:95px;
+	left: 380px;
+	height: 20px;
+	width: 30%;
+	font-family: carbalo;
+	font-size: 13px;
+	color:white;
+	margin: auto;
+
+}
+
+.house3{
+	position: absolute;
+	top: 15px;
+	left:  5510px;
+	height: 100px;
+	padding-left:900px;
+	margin: auto;
+}
+
+.house4{
+	position: absolute;
+	top: 1040px;
+	left: 490px;
+	height: 100px;
+	margin: auto;
+
+}
+
+h3{
+	position: absolute;
+	color:#B22222;
+	top: 1270px;
+	left: 600px;
+	margin: auto;
+}
+
+.pepe{
+	position: absolute;
+	color:black;
+	top:1310px;
+	left: 480px;
+	font-family: carbalo;
+	font-size: 16px;
+	margin: auto;
+}
+
+.house5{
+	position: absolute;
+	top:1610px;
+	left: 738px;
+	margin: auto;
+}
+
+h4{
+	position: absolute;
+	color:blue;
+	top:1650px;
+	left: 150px;
+	height: 100px;
+	margin:auto;
+}
+h5{
+	position: absolute;
+	color: #B22222;
+	top: 1709px;
+	left: 200px;
+	height: 90px;
+	font-size: 16px;
+	margin: auto;
+}
+
+.colombia{
+	position: absolute;
+	color: black;
+	top:1740px;
+	left: 220px;
+	height: 60px;
+	font-size: 17px;
+	margin: auto;
+
+}
+
+.yumaris{
+	width: 100%;
+	background: #B22222;
+	height: 120px;
+	position: absolute;
+	top:1970px;
+	z-index: 1;
+	margin: auto;
+
+}
+
+h6{
+	position: absolute;
+	color: white;
+	top: 45px;
+	left: 100px;
+	font-size: 25px;
+	margin: auto;
+
+}
+
+.house6{
+	position: absolute;
+	top:2210px;
+	left: 100px;
+	margin: auto;
+}
+
+.qqq{
+	position: absolute;
+	color: blue;
+	top: 2210px;
+	left: 650px;
+	font-family: carbalo;
+	font-size: 17px;
+	margin: auto;
+
+}
+
+.aaa{
+	position: absolute;
+	color: #B22222;
+	top: 2255px;
+	left: 650px;
+	font-size: 15px;
+	margin: auto;
+}
+
+.francia{
+	position: absolute;
+	color: black;
+	top:40px;
+	left: 10px;
+	align-self: all;
+	width: 95%;
+	letter-spacing: 2px;
+	font-size: 13.5px;
+	margin: auto;
+
+}
+
+.yulieth{
+	width: 100%;
+	background: #B22222;
+	height: 450px;
+	position: absolute;
+	top:2570px;
+	z-index: 1;
+	margin: auto;
+}
+
+.house7{
+	position: absolute;
+	top:160px;
+	left: 170px;
+	margin: auto;
+}
+
+.yureinis{
+	position: absolute;
+	color:white;
+	top:110px;
+	left: 150px;
+	font-size: 15px;
+	margin: auto;
+	
+}
+
+.house8{
+	position: absolute;
+	top:170px;
+	left: 830px;
+	margin: auto;
+}
+
+.anggie{
+	position: absolute;
+	color: white;
+	font-size: 15px;
+	top:90px;
+	left:830px;
+	margin: auto;
+}
+
+iframe{
+	position: absolute;
+	top: 3000px;
+}
+
+footer{
+	position: absolute;
+	top: 3750px;
+	left:0px;
+	height: 30px;
+	width: 95.5%;
+ 	clear: both;
+	background: #0909E5;
+	padding:30px;
+	text-align: right;
+	margin: auto;
+
+ }
+
+footer p{
+	position: absolute;
+	top:40px;
+}
+
+ footer p:hover{
+	color:red;
+
+}
+
+
+
+.ll{
+	width: 100%;
+	background: #B22222;
+	height: 100px;
+	position: fixed;
+	top: 0px;
+	z-index: 100;
+	margin: auto;
+}
+
+.not{
+	position: absolute;
+	top: 200px;
+	left: 598px;
+	font-size: 40px;
+	color:#B22222;
+	margin: auto;
+
+}
+
+.not1{
+	position: absolute;
+	top: 350px;
+	left: 30px;
+	font-size: 20px;
+	margin: auto;
+	color: #0909E5;
+}
+
+.not2{
+	position: absolute;
+	top: 430px;
+	left: 30px;
+	width: 50%;
+	font-size: 15px;
+	text-transform: unset;
+	color: black;
+	margin: auto;
+}
+
+.NASA{
+	position: absolute;
+	left: 720px;
+	top:340px;
+	margin: auto;
+}
+
+.footer2{
+	position: absolute;
+	top: 690px;
+	left:0px;
+	height: 30px;
+	width: 95.5%;
+ 	clear: both;
+	background: #0909E5;
+	padding:30px;
+	text-align: right;
+	margin: auto;
+
+ }
+
+footer p{
+	position: absolute;
+	top:40px;
+	margin: auto;
+}
+
+ footer p:hover{
+	color:red;
+
+}
+
+
+
+.fede{
+	position: absolute;
+	top:200px;
+	left: 615px;
+	color: #B22222;
+	margin: auto;
+}
+.facto{
+	position: absolute;
+	top:300px;
+	left: 440px;
+	color: #B22222;
+	margin: auto;
+
+}
+
+.zx{
+	position: absolute;
+	top:390px;
+	left: 480px;
+	color: #0909E5;
+	margin: auto;
+}
+
+.xz{
+	top:450px;
+	left: 370px;
+	width: 50%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;
+}
+
+
+.cv{
+	position: absolute;
+	top:560px;
+	left: 450px;
+	color: #0909E5;
+	margin: auto;
+}
+
+.vc{
+	position: absolute;
+	top:620px;
+	left: 365px;
+	width: 50%;
+	color: black;
+	margin: auto;
+	text-transform: unset;
+}
+
+.vb{
+	position: absolute;
+	top:740px;
+	left: 320px;
+	color: #0909E5;
+	margin: auto;
+}
+
+.bv{
+	position: absolute;
+	top:800px;
+	left: 365px;
+	width: 50%;
+	color: black;
+	margin: auto;
+	text-transform: unset;
+}
+
+.bn{
+	position: absolute;
+	top:940px;
+	left: 500px;
+	color: #0909E5;
+	margin: auto;
+}
+
+.nb{
+	position: absolute;
+	top:1000px;
+	left: 365px;
+	width: 50%;
+	color: black;
+	margin: auto;
+	text-transform: unset;	
+}
+
+.nm{
+	position: absolute;
+	top:1150px;
+	left: 430px;
+	color: #0909E5;
+	margin: auto;	
+}
+
+.mn{
+	position: absolute;
+	top:1200px;
+	left: 365px;
+	width: 50%;
+	color: black;
+	margin: auto;
+	text-transform: unset;		
+}
+
+.as{
+	position: absolute;
+	top:1310px;
+	left: 365px;
+	width: 50%;
+	color: black;
+	margin: auto;
+	text-transform: unset;	
+}
+
+
+.footer3{
+	position: absolute;
+	top: 1500px;
+	left:0px;
+	height: 30px;
+	width: 95.5%;
+ 	clear: both;
+	background: #0909E5;
+	padding:30px;
+	text-align: right;
+	margin: auto;
+
+ }
+
+
+footer p{
+	position: absolute;
+	top:40px;
+	margin: auto;
+}
+
+ footer p:hover{
+	color:red;
+
+
+}
+
+
+
+.wero{
+	position: absolute;
+	top:230px;
+	left: 600px;
+	color: #B22222;
+	margin: auto;
+}
+
+.werito{
+	position: absolute;
+	top:345px;
+	left: 465px;
+	color: #B22222;
+	margin: auto;	
+}
+
+.wr{
+	position: absolute;
+	top:440px;
+	left: 400px;
+	color: #0909E5;
+	margin: auto;	
+}
+
+.er{
+	position: absolute;
+	top:500px;
+	left: 295px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;
+}
+
+.rt{
+	position: absolute;
+	top:680px;
+	left: 294px;
+	color: #0909E5;
+	margin: auto;
+}
+
+.tr{
+	position: absolute;
+	top:750px;
+	left: 295px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;	
+}
+
+.ty{
+	position: absolute;
+	top:900px;
+	left: 264px;
+	color: #0909E5;
+	margin: auto;
+}
+
+.yt{
+	position: absolute;
+	top:980px;
+	left: 295px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;	
+}
+
+.yu{
+	position: absolute;
+	top:1126px;
+	left: 310px;
+	color: #0909E5;
+	margin: auto;
+}
+
+.uy{
+	position: absolute;
+	top:1200px;
+	left: 295px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;	
+}
+
+.ui{
+	position: absolute;
+	top:1340px;
+	left: 489px;
+	color: #0909E5;
+	margin: auto;	
+}
+
+.iu{
+	position: absolute;
+	top:1415px;
+	left: 295px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;	
+}
+
+.io{
+	position: absolute;
+	top:1565px;
+	left: 458px;
+	color: #0909E5;
+	margin: auto;	
+}
+
+.oi{
+	position: absolute;
+	top:1646px;
+	left: 295px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;
+}
+
+.opp{
+	position: absolute;
+	top:1845px;
+	left: 388px;
+	color: #0909E5;
+	margin: auto;	
+}
+
+.po{
+	position: absolute;
+	top:1940px;
+	left: 295px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;
+}
+
+.footer4{
+	position: absolute;
+	top: 2150px;
+	left:0px;
+	height: 30px;
+	width: 95.5%;
+ 	clear: both;
+	background: #0909E5;
+	padding:30px;
+	text-align: right;
+	margin: auto;
+
+ }
+
+footer p{
+	position: absolute;
+	top:40px;
+	margin: auto;
+}
+
+ footer p:hover{
+	color:red;
+}
+
+
+.messi{
+	position: absolute;
+	top: 230px;
+	left: 40px;
+	color: #B22222;
+	font-size: 26px;
+	margin: auto;
+}
+
+
+.neymar{
+	position: absolute;
+	top:300px;
+	left: 45px;
+	width: 60%;
+	color: #0909E5;
+	font-size: 25px;
+	margin: auto;
+	text-transform: unset;
+}
+
+.ronaldo{
+	position: absolute;
+	top:350px;
+	left: 45px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;
+}
+
+.suarez{
+	position: absolute;
+	top:450px;
+	left: 45px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;
+}
+
+.aguero{
+	position: absolute;
+	top:530px;
+	left: 45px;
+	width: 60%;
+	color: black;
+	font-size: 18px;
+	margin: auto;
+	text-transform: unset;
+}
+
+.footer5{
+	position: absolute;
+	top: 850px;
+	left:0px;
+	height: 30px;
+	width: 95.5%;
+ 	clear: both;
+	background: #0909E5;
+	padding:30px;
+	text-align: right;
+	margin: auto;
+
+ }
+
+footer p{
+	position: absolute;
+	top:40px;
+}
+
+ footer p:hover{
+	color:red;
+}

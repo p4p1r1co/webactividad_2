@@ -1,0 +1,10 @@
+# robots.txt for http://www.midominio.com/
+
+User-agent: *
+Disallow: /backend
+
+#El estándar de exclusión de robots, también conocido como el protocolo de la exclusión de robots o 
+protocolo de robots.txt es un método para evitar que ciertos bots que analizan los sitios Web u otros 
+robots que investigan todo o una parte del acceso de un sitio Web, público o privado, agreguen 
+información innecesaria a los resultados de búsqueda. Los robots son de uso frecuente por los motores de búsqueda 
+para categorizar archivos de los sitios Webs, o por los webmasters para corregir o filtrar el código fuente.

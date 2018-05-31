@@ -1,0 +1,9 @@
+#particles-js{
+	background-image: : url(imagenes/logo.png);
+	background-position: center;
+	background-attachment:contain;
+	background-size: cover;
+	width: 100%;
+}
+
+
